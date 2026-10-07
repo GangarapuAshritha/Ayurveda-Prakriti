@@ -1,0 +1,14 @@
+MODEL EVALUATION RESULTS
+========================================
+
+Target column: dosha
+Classes:       ['kapha', 'pitta', 'vata']
+Train size:    84
+Test size:     22
+
+Test Accuracy:  0.9545
+Precision:      0.9591
+Recall:         0.9545
+F1-score:       0.9537
+
+CV Mean Accuracy (5-fold): 0.9714 +/- 0.0233

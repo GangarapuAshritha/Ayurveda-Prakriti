@@ -1,0 +1,14 @@
+{
+  "generated_at": "2026-08-20T20:03:31.915289",
+  "input_file": "integrated_dataset.csv",
+  "original_row_count": 106,
+  "original_column_count": 20,
+  "missing_values_before": 0,
+  "duplicates_before": 0,
+  "missing_values_after": 0,
+  "duplicates_after": 0,
+  "rows_removed": 0,
+  "final_row_count": 106,
+  "final_column_count": 20,
+  "imputation_details": {}
+}
